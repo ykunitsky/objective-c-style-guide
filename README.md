@@ -1200,8 +1200,7 @@ Testing
 Inspiration
 ============
 
-[Apple](http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html#//apple_ref/doc/uid/10000146-SW1 "Apple")
-[Robots And Pencils](https://github.com/RobotsAndPencils/objective-c-style-guide")
-[NYTimes](https://github.com/NYTimes/objective-c-style-guide "NYTimes")
-[Raywenderlich](https://github.com/raywenderlich/objective-c-style-guide")
+* [Robots & Pencils](https://github.com/RobotsAndPencils/objective-c-style-guide)
+* [New York Times](https://github.com/NYTimes/objective-c-style-guide)
+* [Raywenderlich](https://github.com/raywenderlich/objective-c-style-guide")
 
