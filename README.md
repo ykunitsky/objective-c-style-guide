@@ -1178,7 +1178,7 @@ Use iTechArt copyright.
 //  Copyright (c) 2015 iTechArt. All rights reserved.
 ```
 
-Set the Organization in your .xcodeproj to override your default company name for new files that are created. Select the project in File Navigator, then use the File Inspector (first button) in the Utilities pane. Set the organization to Robots and Pencils Inc.
+Set the Organization in your .xcodeproj to override your default company name for new files that are created. Select the project in File Navigator, then use the File Inspector (first button) in the Utilities pane. Set the organization to iTechArt.
 
 Proper Code Nutrition
 =====================
